@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on anything exciting in Web and Mobile Development. 
 - 💬 Ask me about Java.
 - 📫 Reach out to me : <parathsree@gmail.com>
-- :computer: [Portfolio](https://sreeparath.netlify.app/)
+- :computer: [Portfolio](https://sreekrishnanparath.herokuapp.com/)
 - 😄 Pronouns  : He/His
 - :mortar_board: Academics: BSc in Computing, Diploma in Computer Engineering  
 - ⚡ Fun fact  : :heartpulse::coffee:
