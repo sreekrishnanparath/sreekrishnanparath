@@ -5,15 +5,15 @@
 
 
 
-- 🔭 I love Java, Spring, Android, React, Angular
-- 🌱 I’m currently learning AWS, PHP and C#
+- 🔭 I love Java, Go, Scala , Android, React...
+- 🌱 I’m currently learning Go, GCP, AWS
 - 👯 I’m looking to collaborate on anything exciting in Web and Mobile Development. 
-- 💬 Ask me about Java.
+- 💬 Ask me about Tech-world.
 - 📫 Reach out to me : <parathsree@gmail.com>
-- :computer: [Portfolio](https://sreekrishnanparath.herokuapp.com/)
-- 😄 Pronouns  : He/His
-- :mortar_board: Academics: BSc in Computing, Diploma in Computer Engineering  
-- ⚡ Fun fact  : :heartpulse::coffee:
+- :computer: [Portfolio](http://sreekrishnanr.com)
+- 😄 Pronouns  : He/Him/His
+- :mortar_board: Academics: MSc System Architecture(on-going), BSc in Computing and Diploma in Computer Engineering  
+- ⚡ Fun fact  : :heartpulse::coffee::football
 - :raising_hand: Passionate about engineering and building software that solves everyday problems.
 
  
