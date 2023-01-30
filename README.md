@@ -13,7 +13,7 @@
 - :computer: [Portfolio](http://sreekrishnanr.com)
 - 😄 Pronouns  : He/Him/His
 - :mortar_board: Academics: MSc System Architecture(on-going), BSc in Computing and Diploma in Computer Engineering  
-- ⚡ Fun fact  : :heartpulse::coffee::football
+- ⚡ Fun fact  : :heartpulse::coffee::soccer:
 - :raising_hand: Passionate about engineering and building software that solves everyday problems.
 
  
