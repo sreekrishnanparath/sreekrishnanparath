@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I love Java, Go, Scala , Android, React...
+- 🔭 I love Java, Go, Android, React...
 - 🌱 I’m currently learning Go, GCP, AWS
 - 👯 I’m looking to collaborate on anything exciting in Web and Mobile Development. 
 - 💬 Ask me about Tech-world.
